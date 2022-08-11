@@ -1,6 +1,6 @@
 ## Javascript client for [imgproxy](https://imgproxy.net/).
 
-    create config Istance
+    //create config Istance
     import ImgProxyClient from 'ImgProxyClient';
     const { ImgProxyClient } = ImgProxyClient;
     export const imageprxyIstance = new ImgProxyClient({url: 'https://imgproxy.test.com'}, {size:{width:40, height: 40, enlarge:true, extend:false}, background: '#ffffff'});
