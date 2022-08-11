@@ -1,6 +1,6 @@
 import { createHmac } from 'crypto';
 import { Buffer } from 'buffer';
-import { Converters } from './Converters';
+import { Converters } from './converters';
 import { Adjust, Crop, Extend, GIFOptions, Gravity, Options, Padding, PNGOptions, Resize, RGBColor, Size, Trim, Watermark } from './types';
 
 export class ImgProxyClient extends Converters {
