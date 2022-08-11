@@ -1,5 +1,5 @@
 {
-  "name": "imgproxyclient",
+  "name": "imgproxyclientjs",
   "version": "1.6.0",
   "description": "ImgProxy javascript client and server",
   "main": "dist/index.js",
